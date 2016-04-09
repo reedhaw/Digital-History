@@ -1,0 +1,1 @@
+   ID238,Scotsman,Edinburgh,Scotland,United Kingdom,1834,6,18,inform,The ship Numa Captain Day sailed from Leith road yesterday forenoon with a full cargo of goods and 37 passengers for Van Diemen's Land and New South Wales. ,shipping news;trade
